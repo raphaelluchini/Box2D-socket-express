@@ -1,0 +1,17 @@
+html, body { margin:0; padding:0; }
+
+#demoCanvas, #debugCanvas {
+	z-index: 1;
+}
+
+#debugCanvas {
+	z-index: 2;
+	display: none;
+	position: absolute;
+	left:0;
+	border: 1px solid #FF0000;
+}
+
+#demoCanvas {
+	border: 1px solid #000;
+}

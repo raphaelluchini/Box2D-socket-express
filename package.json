@@ -1,0 +1,12 @@
+{ "name" : "Box2D-socket-express"
+, "version" : "1.0.0"
+, "author": "raphaelluchini <laster_raphael@hotmail.com>"
+, "description": "A simple game using express and socket.io"
+, "dependencies" : { "express" : "3.3.4"
+										,  "socket.io" : ">=0.9.16"
+									}
+, "license": "MIT"
+, "engines": {
+    "node": ">=0.10"
+  }
+}
